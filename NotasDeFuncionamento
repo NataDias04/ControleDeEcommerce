@@ -6,3 +6,5 @@
 
 2. Deve ser criar uma conexão admin:
 
+apos a criação do profile no passo 3.4 deve-se criar uma conexão para esse profile e todos os passos serem realizados atraves dessa conexão:
+
