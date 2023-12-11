@@ -4,11 +4,8 @@
 
 1. o projeto foi realizado atraves de dois programas o sql developer para a criação e manipulação e o oracle express como banco de dados:
 
-
 2. Deve ser criar uma conexão admin:
 
+3.apos a criação do profile no passo 3.4 deve-se criar uma conexão para esse profile e todos os passos serem realizados atraves dessa conexão:
 
-apos a criação do profile no passo 3.4 deve-se criar uma conexão para esse profile e todos os passos serem realizados atraves dessa conexão:
-
-
-
+imagens referentes ao passo a passo estão disponiveis no repositorio do projeto OBS: estão referenciadas pelo numero do passo correspondente.
