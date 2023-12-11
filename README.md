@@ -1,4 +1,4 @@
-
+1.Projeto Lógico
 
 ![PROJETO LOGICO BD2 (1)](https://github.com/NataDias04/ControleDeEcommerce/assets/142185726/5c2e104c-fc6d-4090-b10e-6eddd33b4b6b)
 
@@ -10,6 +10,7 @@ compra do cliente.
 
 3. Estrutura
 3.1. Criar tablespace de Dados;
+   
 CREATE TABLESPACE TBS_PROJETO
 DATAFILE 'TBS_PROJETO.dbf' SIZE 100M
 AUTOEXTEND ON NEXT 100M MAXSIZE UNLIMITED; 
